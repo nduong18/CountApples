@@ -1,4 +1,4 @@
-# CountApples - PhaserJS - Play-based game for kids
+# CountApples - PhaserJS - Play-based learning game for kids
 ## [Play Here](https://nduong18.github.io/CountApples/)
 ### How to play: Choose correct number
 ![Game](thumbnail/Game.png)
